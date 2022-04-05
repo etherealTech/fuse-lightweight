@@ -17,7 +17,6 @@ const layoutModules = [
     ],
     imports     : [
         SharedModule,
-        SettingsModule,
         ...layoutModules
     ],
     exports     : [
