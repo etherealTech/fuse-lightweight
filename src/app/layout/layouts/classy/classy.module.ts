@@ -12,7 +12,7 @@ import { NotificationsModule } from 'app/layout/common/notifications/notificatio
 import { SearchModule } from 'app/layout/common/search/search.module';
 import { UserModule } from 'app/layout/common/user/user.module';
 import { SharedModule } from 'app/shared/shared.module';
-import { ClassyLayoutComponent } from 'app/layout/layouts/vertical/classy/classy.component';
+import { ClassyLayoutComponent } from 'app/layout/layouts/classy/classy.component';
 
 @NgModule({
     declarations: [
